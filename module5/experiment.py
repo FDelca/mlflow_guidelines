@@ -8,7 +8,6 @@ from sklearn import linear_model
 from sklearn.metrics import mean_squared_error
 from sklearn.model_selection import train_test_split
 
-# mlflow.set_tracking_uri('http://localhost:5000') # If running in the server (not solved)
 mlflow.set_experiment("Dropping columns")
 
 # Create a Temporary directory to store the models
