@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fdelca/MLOps/course_mlflow/to_git/module3/mlruns/1/4476de21d17a44a8b76363aaa4b303ae/artifacts
+end_time: 1651837133300
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 4476de21d17a44a8b76363aaa4b303ae
+run_uuid: 4476de21d17a44a8b76363aaa4b303ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1651837133283
+status: 3
+tags: []
+user_id: fdelca
