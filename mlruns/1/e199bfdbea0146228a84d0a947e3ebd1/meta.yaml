@@ -1,0 +1,15 @@
+artifact_uri: file:///home/fdelca/Documents/MLOps/mlflow_guidelines/mlruns/1/e199bfdbea0146228a84d0a947e3ebd1/artifacts
+end_time: 1652365811869
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e199bfdbea0146228a84d0a947e3ebd1
+run_uuid: e199bfdbea0146228a84d0a947e3ebd1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1652365809775
+status: 3
+tags: []
+user_id: fdelca
